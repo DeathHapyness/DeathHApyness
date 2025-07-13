@@ -15,9 +15,9 @@
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Python, JavaScript, HTML, CSS e C#**, com experiência no desenvolvimento de aplicações web e projetos mobile com Flutter.
 
 - 📚 Atualmente aprendendo: **C#**, **Flutter** e **Inteligência Artificial**
-- 💬 Me pergunte sobre: Front-end, Back-end, Firebase, Bots, UI/UX
+- 💬 Me pergunte sobre: Front-end,Firebase, UI/UX
 - 🤝 Buscando colaborar com projetos sociais e open-source
-- 🛠️ Criador do projeto: **PGoPatins**
+- 🛠️ Criador do projeto: **GoPatins**
 - 🌎 Localização: Brasil
 
 ---
