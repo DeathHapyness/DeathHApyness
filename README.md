@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Pyt
 - 📚 Atualmente aprendendo: **C#**, **Flutter** e **Inteligência Artificial**
 - 💬 Me pergunte sobre: Front-end, Back-end, Firebase, Bots, UI/UX
 - 🤝 Buscando colaborar com projetos sociais e open-source
-- 🛠️ Criador do projeto: **Patins Transformando Vidas**
+- 🛠️ Criador do projeto: **PGoPatins**
 - 🌎 Localização: Brasil
 
 ---
@@ -47,12 +47,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Pyt
 
 ---
 
-### 🎯 Metas para 2025
+### 🎯 Minhas-Metas 
 
 - 🚀 Lançar um app completo com Flutter
 - 🧠 Criar um chatbot com NLP totalmente funcional
 - 🎓 Iniciar a faculdade de Engenharia de Software
-- 💼 Trabalhar em uma empresa de tecnologia (ou banco) de grande porte
 - 💻 Publicar um projeto open-source relevante
 
 ---
@@ -60,8 +59,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Pyt
 ### 📫 Contato
 
 📩 gopatins.suporte@gmail.com  
-📷 [Instagram - @gopatins.oficial](https://www.instagram.com/gopatins.oficial)  
-🌐 [Projeto Patins Transformando Vidas (em breve)](#)
 
 ---
 
