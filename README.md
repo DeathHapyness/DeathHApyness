@@ -1,46 +1,74 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Henrique!</h1>
 
-![How to use](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e475i63npx5b3alph5pv295do3t4puypx8tn6gsxrrx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-<h4>🚀 Desenvolvedor apaixonado por tecnologia e inovação
-Sou um( desenvolvedor com foco em Python,JS,CSS,HTML,C# e sempre em busca de novos desafios. Tenho experiência em desenvolvimento de aplicações web. Estou sempre aprimorando minhas habilidades e colaborando em projetos de código aberto. 💡
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Em+busca+de+novos+desafios" alt="Typing SVG" />
+</p>
 
-🌱 Atualmente aprendendo: C# <br>
-🌍 Contribuições: Acredito no poder da comunidade open-source e busco sempre compartilhar meu conhecimento, além de colaborar com outros desenvolvedores em projetos interessantes.
+<p align="center">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" alt="Patins GIF"/>
+</p>
 
-##
+---
 
+### 🚀 Sobre mim
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Python, JavaScript, HTML, CSS e C#**, com experiência no desenvolvimento de aplicações web e projetos mobile com Flutter.
+
+- 📚 Atualmente aprendendo: **C#**, **Flutter** e **Inteligência Artificial**
+- 💬 Me pergunte sobre: Front-end, Back-end, Firebase, Bots, UI/UX
+- 🤝 Buscando colaborar com projetos sociais e open-source
+- 🛠️ Criador do projeto: **Patins Transformando Vidas**
+- 🌎 Localização: Brasil
+
+---
+
+### 🧰 Tecnologias que uso
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </div>
 
-🤖 Linguagens e Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+---
 
-<br>
-<br>
-<br>
+### 📈 Meus status no GitHub
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DeathHapyness&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&locale=pt-br"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHapyness&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
-##📊 Estatísticas
+---
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DeathHapyness&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 🎯 Metas para 2025
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHapyness&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+- 🚀 Lançar um app completo com Flutter
+- 🧠 Criar um chatbot com NLP totalmente funcional
+- 🎓 Iniciar a faculdade de Engenharia de Software
+- 💼 Trabalhar em uma empresa de tecnologia (ou banco) de grande porte
+- 💻 Publicar um projeto open-source relevante
+
+---
+
+### 📫 Contato
+
+📩 gopatins.suporte@gmail.com  
+📷 [Instagram - @gopatins.oficial](https://www.instagram.com/gopatins.oficial)  
+🌐 [Projeto Patins Transformando Vidas (em breve)](#)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=200&section=footer&text=Obrigado+por+visitar!&fontColor=ffffff&fontSize=30" />
+</p>
+
 
 
 
