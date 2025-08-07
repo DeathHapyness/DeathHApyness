@@ -14,7 +14,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Python, JavaScript, HTML, CSS e C#**, com experiência no desenvolvimento de aplicações web e projetos mobile com Flutter.
 
-- 📚 Atualmente aprendendo: **C#**, **Flutter** e **Inteligência Artificial**
+- 📚 Atualmente aprendendo: **C#** e **Inteligência Artificial**
 - 💬 Me pergunte sobre: Front-end,Firebase, UI/UX
 - 🤝 Buscando colaborar com projetos sociais e open-source
 - 🛠️ Criador do projeto: **GoPatins**
@@ -30,11 +30,15 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Pyt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+          
+          
+          
 </div>
 
 ---
@@ -50,9 +54,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Pyt
 
 ### 🎯 Minhas-Metas 
 
-- 🚀 Lançar um app completo com Flutter
 - 🧠 Criar um chatbot com NLP totalmente funcional
-- 🎓 Iniciar a faculdade de Engenharia de Software
+- 🎓 Iniciar a faculdade de ADS
 - 💻 Publicar um projeto open-source relevante
 
 ---
