@@ -62,7 +62,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Pyt
 
 ### 📫 Contato
 
-📩  fabricada300@gmail.com  
+📩  ...
 
 ---
 
