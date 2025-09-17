@@ -14,7 +14,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Python, JavaScript, HTML, CSS e C#**, com experiência no desenvolvimento de aplicações web e backend com Python.
 
-- 📚 Atualmente aprendendo: **C#** e **Inteligência Artificial**
+- 📚 Atualmente aprendendo: **Django** 
 - 💬 Me pergunte sobre: Front-end,Firebase, UI/UX
 - 🤝 Buscando colaborar com projetos sociais e open-source
 - 🛠️ Criador do projeto: **GoPatins**
