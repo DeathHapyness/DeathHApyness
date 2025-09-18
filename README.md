@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Pyt
 - 📚 Atualmente aprendendo: **Django** 
 - 💬 Me pergunte sobre: Front-end,Firebase, UI/UX
 - 🤝 Buscando colaborar com projetos sociais e open-source
-- 🛠️ Criador do projeto: **GoPatins**
+- 🛠️ Criador do projeto: **RideMap**
 - 🌎 Localização: Brasil
 
 ---
