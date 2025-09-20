@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **Python, JavaScript, HTML, CSS e C#**, com experiência no desenvolvimento de aplicações web e backend com Python.
+Sou um desenvolvedor fanatico por tecnologia. Tenho foco em **Python, JavaScript, HTML, CSS e C#**, com experiência no desenvolvimento de aplicações web e backend com Python.
 
 - 📚 Atualmente aprendendo: **Django** 
 - 💬 Me pergunte sobre: Front-end,Firebase, UI/UX
