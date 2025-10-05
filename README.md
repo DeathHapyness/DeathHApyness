@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Henrique!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Em+busca+de+novos+desafios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Fascinado+por+Tecnologia;Em+busca+de+novos+desafios" alt="Typing SVG" />
 </p>
 
 <p align="center">
