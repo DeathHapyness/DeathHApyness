@@ -8,12 +8,6 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" alt="Patins GIF"/>
 </p>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcountpro.netlify.app/api?id=DeathHapyness&color=orange&style=dark&label=Visitas&pretty=true" />
-  </a>
-</div>
-
 ---
 
 ### 🚀 Sobre mim
@@ -67,6 +61,14 @@ Sou um desenvolvedor fanatico por tecnologia. Tenho foco em **Python, JavaScript
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+---
 ### 🎯 Minhas-Metas 
 
 - 🧠 Criar um chatbot com NLP totalmente funcional
@@ -78,6 +80,12 @@ Sou um desenvolvedor fanatico por tecnologia. Tenho foco em **Python, JavaScript
 ### 📫 Contato
 
 📩  henrique.dev2@proton.me
+
+<div>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcountpro.netlify.app/api?id=DeathHapyness&color=orange&style=dark&label=Visitas&pretty=true" />
+  </a>
+</div>
 
 ---
 
