@@ -8,6 +8,12 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" alt="Patins GIF"/>
 </p>
 
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcountpro.netlify.app/api?id=DeathHapyness&color=orange&style=dark&label=Visitas&pretty=true" />
+  </a>
+</div>
+
 ---
 
 ### 🚀 Sobre mim
