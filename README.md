@@ -1,8 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Henrique!</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04a1a3b2&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Fascinado+por+Tecnologia;Em+busca+de+novos+desafios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=10c2c2&center=true&vCenter=true&width=500&lines=Be+Welcome,+My+name+is+Henrique;Full+Stack+Developer;Passionate+about+Technology;Seeking+new+challenges" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" alt="Patins GIF"/>
@@ -21,8 +22,8 @@ Sou um desenvolvedor fanatico por tecnologia. Tenho foco em **Python, JavaScript
 - 🌎 Localização: Brasil
 
 ---
-
 ### 🧰 Tecnologias que uso
+
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -38,15 +39,6 @@ Sou um desenvolvedor fanatico por tecnologia. Tenho foco em **Python, JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-
-
-
- 
-
-
-
-          
-          
           
 </div>
 
@@ -90,7 +82,7 @@ Sou um desenvolvedor fanatico por tecnologia. Tenho foco em **Python, JavaScript
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=200&section=footer&text=Obrigado+por+visitar!&fontColor=ffffff&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=04a1a3b2&height=200&section=footer&text=Obrigado+por+visitar!&fontColor=ffffff&fontSize=30" />
 </p>
 
 
