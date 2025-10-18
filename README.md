@@ -9,9 +9,14 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" alt="Patins GIF"/>
 </p>
 
----
 
-### 🚀 Sobre mim
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<div align="center">
+  <h3>【﻿ 🚀 About Me 】</h3>
+</div>
+
 
 Sou um desenvolvedor fanático por tecnologia, com foco em **Python, JavaScript, HTML e CSS**, e experiência no desenvolvimento de aplicações web e backend utilizando **Python**.
 
@@ -21,9 +26,14 @@ Sou um desenvolvedor fanático por tecnologia, com foco em **Python, JavaScript,
 - 🛠️ Criador do projeto: **RideMap**
 - 🌎 Localização: Brasil
 
----
-### 🧰 Tecnologias que uso
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
+
+<div align="center">
+  <h3>【﻿ 🧰 Technologies I use 】</h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -42,16 +52,23 @@ Sou um desenvolvedor fanático por tecnologia, com foco em **Python, JavaScript,
           
 </div>
 
----
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
-### 📈 Meus status no GitHub
+<div align="center">
+  <h3>【﻿ 📈 My GitHub Statistics 】</h3>
+</div>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DeathHapyness&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&locale=pt-br"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHapyness&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
----
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -59,17 +76,26 @@ Sou um desenvolvedor fanático por tecnologia, com foco em **Python, JavaScript,
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
----
-### 🎯 Minhas-Metas 
+<div align="center">
+  <h3>【﻿ 🎯 My Goals 】</h3>
+</div>
 
 - 🧠 Criar um chatbot com NLP totalmente funcional
 - 🎓 Iniciar a faculdade de ADS
 - 💻 Publicar um projeto open-source relevante
 
----
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
-### 📫 Contato
+
+<div align="center">
+  <h3>【﻿ 📫 Contact Me 】</h3>
+</div>
 
 📩  henrique.dev2@proton.me
 
@@ -79,7 +105,10 @@ Sou um desenvolvedor fanático por tecnologia, com foco em **Python, JavaScript,
   </a>
 </div>
 
----
+<a href="https://github.com/walidbosso">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=04a1a3b2&height=200&section=footer&text=Obrigado+por+visitar!&fontColor=ffffff&fontSize=30" />
