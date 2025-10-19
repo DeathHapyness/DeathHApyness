@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Henrique&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10C2C2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+|+Python+JavaScript;Building+innovative+solutions;Open+to+collaborations+and+new+ideas!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10C2C2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+JavaScript;Building+innovative+solutions+%F0%9F%9A%80;Open+to+collaborations+and+new+ideas!" alt="Typing SVG" />
 
-<!-- Badges animados -->
+<!-- Animated Badges -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-10c2c2?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Lives-Brasil-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -26,27 +26,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎵%20Everlong-Foo%20Fighters-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+🎵 **Everlong** - Foo Fighters
 
-<p><i>The Colour and the Shape • 1997</i></p>
+*The Colour and the Shape • 1997*
 
-<div style="width: 300px; height: 8px; background-color: #333; border-radius: 10px; margin: 15px auto; overflow: hidden;">
-  <div style="height: 100%; background: linear-gradient(90deg, #1DB954, #1ed760); width: 0%; animation: progress 4s infinite;"></div>
-</div>
+<br>
 
-<style>
-@keyframes progress {
-  0% { width: 0%; }
-  50% { width: 100%; }
-  100% { width: 100%; }
-}
-</style>
-
-<p><strong>0:00 ⏵ 4:48</strong></p>
-
-<a href="https://open.spotify.com/track/7qiZfU4dY1lkzZwfGPQLf5">
-  <img src="https://img.shields.io/badge/▶%20Ouça%20no%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
-</a>
+[![Listen on Spotify](https://img.shields.io/badge/▶%20Ouça%20no%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7qiZfU4dY1lkzZwfGPQLf5)
 
 </div>
 
