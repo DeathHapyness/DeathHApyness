@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Header animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Henrique%20Santos&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Henrique&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10C2C2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+JavaScript;Building+innovative+solutions+%F0%9F%9A%80;Open+to+collaborations+and+new+ideas!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10C2C2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+|+Python+JavaScript;Building+innovative+solutions;Open+to+collaborations+and+new+ideas!" alt="Typing SVG" />
 
 <!-- Badges animados -->
 <p>
@@ -20,6 +18,41 @@
 <br>
 
 <!-- Linha divisória animada -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🎵 **Minha Música Favorita**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎵%20Everlong-Foo%20Fighters-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+
+<p><i>The Colour and the Shape • 1997</i></p>
+
+<div style="width: 300px; height: 8px; background-color: #333; border-radius: 10px; margin: 15px auto; overflow: hidden;">
+  <div style="height: 100%; background: linear-gradient(90deg, #1DB954, #1ed760); width: 0%; animation: progress 4s infinite;"></div>
+</div>
+
+<style>
+@keyframes progress {
+  0% { width: 0%; }
+  50% { width: 100%; }
+  100% { width: 100%; }
+}
+</style>
+
+<p><strong>0:00 ⏵ 4:48</strong></p>
+
+<a href="https://open.spotify.com/track/7qiZfU4dY1lkzZwfGPQLf5">
+  <img src="https://img.shields.io/badge/▶%20Ouça%20no%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+</a>
+
+</div>
+
+<br>
+
+<!-- Linha divisória -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -151,7 +184,7 @@ me.say_hi()
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeathHapyness/DeathHapyness/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeathHapyness/DeathHapyness/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeathHapyness/DeathHapyness/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeathHapyness/DeathHapyness/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -198,9 +231,11 @@ me.say_hi()
 
 <br>
 
+<div align="center">
+
 <!-- Footer animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=88&descAlign=50&animation=twinkling"/>
 
 </div>
 
-
+</div>
