@@ -141,19 +141,16 @@ me.say_hi()
 <br>
 
 <div align="center">
+  
+## 📊 GitHub Statistics
 
-## 📊 **GitHub Statistics**
-
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeathHapyness&show_icons=true&count_private=true&hide_border=true&title_color=10c2c2&icon_color=10c2c2&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" src="https://streak-stats.demolab.com/?user=DeathHapyness&theme=dark&hide_border=true&background=0d1117&ring=10c2c2&fire=10c2c2&currStreakLabel=10c2c2" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DeathHapyness&show_icons=true&count_private=true&hide_border=true&title_color=10c2c2&icon_color=10c2c2&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=DeathHapyness&theme=react&hide_border=true&stroke=0d1117&background=0d1117&ring=10c2c2&fire=10c2c2&currStreakLabel=10c2c2&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHapyness&layout=compact&hide_border=true&title_color=10c2c2&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Most Used Languages" />
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=DeathHapyness&custom_title=Contribution%20Graph&bg_color=0d1117&color=10c2c2&line=10c2c2&point=ffffff&area_color=0d1117&title_color=10c2c2&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeathHapyness&layout=compact&hide_border=true&title_color=10c2c2&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br>
