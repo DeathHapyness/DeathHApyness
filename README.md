@@ -21,7 +21,7 @@
 **Tech Stack:** Node.js • MySQL • Bootstrap • Handlebars  
 **Status:** 🟢 In Active Development
 
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeathHapyness/Ridemap_Reserva)
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/DeathHapyness/Ridemap_Reserva](https://github.com/DeathHapyness/RideMap))
 
 </div>
 
