@@ -73,7 +73,7 @@
 
 [![Email](https://img.shields.io/badge/henrique.dev2@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:henrique.dev2@proton.me)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeathHapyness)
-[![LinkedIn](https://img.shields.io/badge/View_my_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-barros-4751313a0)
+[![LinkedIn](https://img.shields.io/badge/Visit_my_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-barros-4751313a0)
 
 <br>
 
