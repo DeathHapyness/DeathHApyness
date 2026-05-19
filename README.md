@@ -79,11 +79,13 @@ Currently diving deeper into Cybersecurity, scalable systems, and infrastructure
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeathHapyness&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHapyness&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=DeathHapyness&theme=github-compact&hide_border=true&area=true)
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeathHapyness&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeathHapyness&layout=compact&theme=dark&hide_border=true" />
+
+</div> 
 
 ---
 
