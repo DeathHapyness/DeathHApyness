@@ -18,7 +18,7 @@ I enjoy working with Python, JavaScript, networking concepts, lightweight Linux 
 
 Currently diving deeper into Cybersecurity, scalable systems, and infrastructure.
 
---
+---
 
 ## 🚀 Featured Project
 
@@ -75,15 +75,17 @@ Currently diving deeper into Cybersecurity, scalable systems, and infrastructure
 
 - Real-time Applications
 
---
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=DeathHapyness&theme=github-compact&hide_border=true&area=true)
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeathHapyness&theme=github_dark" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeathHapyness&layout=compact&theme=dark&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeathHapyness&theme=github-compact&hide_border=true&area=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeathHapyness&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHapyness&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
