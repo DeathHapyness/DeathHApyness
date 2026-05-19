@@ -104,7 +104,7 @@ Currently diving deeper into Cybersecurity, scalable systems, and infrastructure
 
 <br>
 
-💼 Open to collaborations • 🌱 Always learning • 🚀 Building cool things
+💼 Open to collaborations • 🚀 Building cool things
 
 <br>
 
