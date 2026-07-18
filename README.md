@@ -99,8 +99,6 @@ Currently diving deeper into Cybersecurity, scalable systems, and infrastructure
 
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeathHapyness)
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-barros-4751313a0)
-
 <br>
 
 💼 Open to collaborations • 🎯 Looking for opportunities • 🌱 Always learning
